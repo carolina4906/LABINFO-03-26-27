@@ -1,0 +1,40 @@
+﻿try { . "c:\Users\carol\AppData\Local\Programs\Microsoft VS Code\8a14f0cc1b\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
+git clone git clone https://github.com/carolina4906/LABINFO-03-26-27.git
+git clone https://github.com/carolina4906/LABINFO-03-26-27.git
+git add .
+git init
+git add .
+git commit -m "3.ª tarefa concluída"
+git push origin main
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/carolina4906/LABINFO-03-26-27.git
+git push -u origin main
+git pull origin main --allow-unrelated-histories
+git push -u origin main
+git push
+git merge --abort
+git fetch origin
+git merge origin/main --allow-unrelated-histories -X ours --no-edit
+cd LABINFO-03-26-27
+git push -u origin main
+git add .
+git commit -m "3.ª tarefa concluída"
+git push -u origin main
+git add .
+git commit -m "4.ª tarefa: adiciona navegação e conteúdo à página inicial"
+git push -u origin main
+git pull
+git add.
+git commit -m "5.ª tarefa cumprida"
+git push -u origin main
+git commit -m "5.ª tarefa cumprida"
+git add disciplina.html
+git commit -m "5.ª tarefa cumprida"
+git push -u origin main
+git pull
+history > meusComandosLocais.txt
+cat > meusComandosLocais.txt
+cat  meusComandosLocais.txt
+cat meusComandosLocais.txt
+Set-Content -Encoding utf8 meusComandosLocais.txt
