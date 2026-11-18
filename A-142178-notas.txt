@@ -1,0 +1,118 @@
+NOME: Carolina Barbosa
+NMEC: 142178
+
+git clone https://github.com/carolina4906/LABINFO-03-26-27.git
+git add .
+git commit -m "Identificação"
+git push
+mkdir A142178
+cd A142178
+pwd
+/workspaces/LABINFO-03-26-27/A142178
+touch README.me
+echo "Teste de LI 2026/2027" > README.me
+cd ..
+pwd
+/workspaces/LABINFO-03-26-27
+history > cmdstask2.txt
+git add .
+git commit -m "2.ª tarefa concluída"
+git push
+
+cd LABINFO-03-26-27
+git remote add origin https://github.com/carolina4906/LABINFO-03-26-27.git
+git add .
+git commit -m "3.ª tarefa concluída"
+git push -u origin main
+
+git add.
+git commit -m "4.ª tarefa: adiciona navegação e conteúdo à página inicial"
+git push -u origin main
+
+codespace:
+git pull
+git add disciplina.html
+git commit -m "Cria disciplina.html a partir de index.html"
+git push -u origin main
+Computador:
+git pull
+git add disciplina.html
+git commit -m "5.ª tarefa cumprida"
+git push -u origin main
+
+=== Comandos do Codespace ===
+    1  ls
+    2  pwd
+    3  git clone https://github.com/carolina4906/LABINFO-03-26-27.git
+    4  git add .
+    5  git commit -m "Identificação"
+    6  git push
+    7  mkdir A142178
+    8  cd A142178
+    9  pwd
+   10  Touch README.me "Teste de LI 2026/2027"
+   11  touch README.me "Teste de LI 2026/2027"
+   12  echo "Teste de LI 2026/2027" > README.me
+   13  cd ..
+   14  history > cmdstask2.txt
+   15  git add .
+   16  git commit -m "2.ª tarefa concluída"
+   17  git push
+   18  pwd
+   19  git pull
+   20  git add .
+   21  git commit -m "Cria disciplina.html a partir de index.html"
+   22  git push -u origin main
+   23  git pull
+   24  history > meusComandosCodespace.txt
+git add meusComandosCodespace.txt
+git commit -m "Tarefa 6: regista o histórico do Codespace"
+git push -u origin main
+
+Computador
+git pull
+
+--- Comandos do computador ---
+try { . "c:\Users\carol\AppData\Local\Programs\Microsoft VS Code\8a14f0cc1b\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
+git clone git clone https://github.com/carolina4906/LABINFO-03-26-27.git
+git clone https://github.com/carolina4906/LABINFO-03-26-27.git
+git add .
+git init
+git add .
+git commit -m "3.ª tarefa concluída"
+git push origin main
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/carolina4906/LABINFO-03-26-27.git
+git push -u origin main
+git pull origin main --allow-unrelated-histories
+git push -u origin main
+git push
+git merge --abort
+git fetch origin
+git merge origin/main --allow-unrelated-histories -X ours --no-edit
+cd LABINFO-03-26-27
+git push -u origin main
+git add .
+git commit -m "3.ª tarefa concluída"
+git push -u origin main
+git add .
+git commit -m "4.ª tarefa: adiciona navegação e conteúdo à página inicial"
+git push -u origin main
+git pull
+git add.
+git commit -m "5.ª tarefa cumprida"
+git push -u origin main
+git commit -m "5.ª tarefa cumprida"
+git add disciplina.html
+git commit -m "5.ª tarefa cumprida"
+git push -u origin main
+git pull
+history > meusComandosLocais.txt
+cat > meusComandosLocais.txt
+cat  meusComandosLocais.txt
+cat meusComandosLocais.txt
+Set-Content -Encoding utf8 meusComandosLocais.txt
+git add meusComandosLocais.txt
+git commit -m "Tarefa 6 cumprida"
+git push -u origin main
