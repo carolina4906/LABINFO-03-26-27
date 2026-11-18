@@ -1,0 +1,14 @@
+    1  ls
+    2  pwd
+    3  git clone https://github.com/carolina4906/LABINFO-03-26-27.git
+    4  git add .
+    5  git commit -m "Identificação"
+    6  git push
+    7  mkdir A142178
+    8  cd A142178
+    9  pwd
+   10  Touch README.me "Teste de LI 2026/2027"
+   11  touch README.me "Teste de LI 2026/2027"
+   12  echo "Teste de LI 2026/2027" > README.me
+   13  cd ..
+   14  history > cmdstask2.txt
